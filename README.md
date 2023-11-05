@@ -6,5 +6,7 @@ My journey into analytics started with coding a Smart Mirror with a gen one Rasp
 
 
 ⚪ 🥳 Fun facts: You can find me at an art museum/gellery, I'm a musician (drummer), and I enjoy astronomy!
+
 ⚪ 📈 my portfolio: and
+
 ⚪ 📫 How to reach me: austincholguin@gmail.com
